@@ -13,7 +13,7 @@ services:
       - java
       - -jar
       - /kissmanga-downloader.jar
-      - http://kissmanga.com/Manga/Shingeki-no-Kyojin
+      - http://kissmanga.com/Manga/Shingeki-no-Kyojin/099---A-shadow-of-guilt?id=390076
   selenium:
     image: "elgalu/selenium:latest"
     ports:
